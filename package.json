@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/eltimsy/week4day2/issues"
   },
-  "homepage": "https://github.com/eltimsy/week4day2#readme"
+  "homepage": "https://github.com/eltimsy/week4day2#readme",
+  "dependencies": {
+    "knex": "^0.12.1"
+  }
 }
